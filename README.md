@@ -1,4 +1,4 @@
-# 🧠 Manufacturing Defect Prediction
+# Manufacturing Defect Prediction
 
 ## Overview
 Modern manufacturing systems (ERP, MES, QMS, SCADA) generate detailed production data. 
